@@ -17,9 +17,9 @@ In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️)
  
 <p>
   <row>
-    <img src="./img/react-original.svg" alt="react" width="30" height="30"/>
+<!--     <img src="./img/react-original.svg" alt="react" width="30" height="30"/> -->
     <img src="./img/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
-    <img src="./img/ionic-original.svg" alt="ionic" width="30" height="30"/>
+<!--     <img src="./img/ionic-original.svg" alt="ionic" width="30" height="30"/>
     <img src="./img/react-original.svg" alt="rectnative" width="30" height="30"/>
     <img src="./img/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
     <img src="./img/javascript-original.svg" alt="javascript" width="30" height="30"/>
@@ -34,7 +34,7 @@ In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️)
     <img src="./img/github-original.svg" alt="github" width="30" height="30"/>
     <img src="./img/gitlab-original.svg" alt="gitlab" width="30" height="30"/>
     <img src="./img/docker-original.svg" alt="docker" width="30" height="30"/>
-    <img src="./img/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/>
+    <img src="./img/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/> -->
 <!--     <p align="center">
       <img src="https://gidigi.com/cdn/love.gif" alt="code-love" whidt="100" height="100">
     </p> -->

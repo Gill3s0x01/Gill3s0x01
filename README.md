@@ -18,7 +18,7 @@ In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️)
 <p>
   <row>
 <!--     <img src="./img/react-original.svg" alt="react" width="30" height="30"/> -->
-    <img src="./img/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
+<!--     <img src="./img/angularjs-original.svg" alt="angularjs" width="30" height="30"/> -->
 <!--     <img src="./img/ionic-original.svg" alt="ionic" width="30" height="30"/>
     <img src="./img/react-original.svg" alt="rectnative" width="30" height="30"/>
     <img src="./img/nodejs-original.svg" alt="nodejs" width="30" height="30"/>

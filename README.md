@@ -62,7 +62,13 @@ Would you like to meet me?📫
 <br>
 <br>
 
-<div id="minhaDiv">
+<div align="center">
+  <a href="https://github.com/Gilles30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilles30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div id="Gilles30">
   
   <a>
     <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=Gilles30&theme=omni&show_icons=true&include_all_commits=true&count_private=issues" />

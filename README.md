@@ -64,11 +64,11 @@ Would you like to meet me?📫
 
 <div align="center">
   <a href="https://github.com/Gilles30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilles30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilles30&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact&langs_count=7&theme=omni&layout=compact"/>
 </div>
 
-<div id="Gilles30">
+<!-- <div id="Gilles30">
   
   <a>
     <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=Gilles30&theme=omni&show_icons=true&include_all_commits=true&count_private=issues" />
@@ -78,6 +78,6 @@ Would you like to meet me?📫
      <img width = "250px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilles30&theme=omni&layout=compact)](https://github.com/Gilles30/github-readme-stats"/>  
   </a>
   
-</div> 
+</div>  -->
 
 

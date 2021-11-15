@@ -41,6 +41,7 @@ In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️)
   </row>
 </p>
 
+
 Would you like to meet me?📫
 
 <a href="https://www.linkedin.com/in/lorison-gilles/">

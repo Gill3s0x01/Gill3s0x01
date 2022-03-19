@@ -1,5 +1,5 @@
 
-<img align='right' src = "https://komarev.com/ghpvc/?username=gilles30" alt = "gilles30" />
+<img align='right' src = "https://komarev.com/ghpvc/?username=Gilles30" alt = "Gilles30" />
 
 <img align='left' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'>
 

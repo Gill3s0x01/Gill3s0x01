@@ -7,15 +7,11 @@
 
 <p>
 <img align='right' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
-
  
 My name is Lorison Gilles🚀, from Brazil (🇧🇷). I work with front-end/full-stack development since 2019 working with frela and personal projects, I am currently a Full Developer. in the advertising and marketing sector in systems development and technology implementation at The Brooklyn Brothers 💻🖥🖱 💡, with this new challenge I seek to always develop and learn, making the most of the knowledge of my mentors 🏪🏬. I'm passionate about development, the best web 🖥️💻 and mobile 📱 technologies and good coffee☕, so I created some projects as a front-end [repositories] (https://github.com/Gilles30?tab=repositories), learning to produce content to help other developers💬
 
- 
 In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️), practice jiu-jitsu (👻), watch movies (🎞️) and series (📺), touch the suspension and the powerful engine ( 🚗 💨 🚓), listening to music (🎵 🎻 🎧) enjoying with my family (👨‍👩‍👦), going to church (⛪), eating pizza (🍕) and eventually philosophizing with my wife about life 🏡 with a good wine (🍷).
 </p>
- 
- 
  
 <p>
   <row>

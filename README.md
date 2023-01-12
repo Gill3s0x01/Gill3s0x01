@@ -54,17 +54,17 @@ Would you like to meet me?📫
     <img alt="Lorison Gilles" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link" />
 </a> -->
 
-<a href="mailto: lorison.gilles @ gmail. com">
+<!-- <a href="mailto: lorison.gilles @ gmail. com">
   <img alt="Lorison Gilles" src="https://img.shields.io/badge/-lorison.gilles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com" />
-</a>
+</a> -->
 
 <br>
 <br>
 
 <div align="center">
   <a href="https://github.com/Gilles30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilles30&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact&langs_count=7&theme=omni"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilles30&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact&langs_count=7&theme=omni"/> -->
 </div>
  
  <!-- [GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gilles30&color=fc77c4&line=6594c1&point=e6dd7e&bg_color=191622&area=true&hide_border=false) -->

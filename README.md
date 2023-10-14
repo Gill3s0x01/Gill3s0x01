@@ -61,11 +61,6 @@ Would you like to meet me?📫
 <br>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid.svg" />
-  <img alt="github-snake" src="github-contribution-grid.svg" />
-</picture>
 ![Snake animation](https://github.com/Gilles30/Gilles30/blob/output/github-contribution-grid-snake-dark.svg)
 
 

@@ -72,6 +72,9 @@ Would you like to meet me?📫
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+ ![Snake animation](https://github.com/Gilles30/Gilles30/blob/output/github-contribution-grid-snake.svg)
+ 
             
  
  <!-- [GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gilles30&color=fc77c4&line=6594c1&point=e6dd7e&bg_color=191622&area=true&hide_border=false) -->

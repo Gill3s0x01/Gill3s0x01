@@ -66,6 +66,8 @@ Would you like to meet me?📫
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilles30&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact&langs_count=7&theme=omni"/> -->
 </div>
+
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/Gilles30/Gilles30/output/github-contribution-grid-snake.svg)
  
  <!-- [GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gilles30&color=fc77c4&line=6594c1&point=e6dd7e&bg_color=191622&area=true&hide_border=false) -->
 

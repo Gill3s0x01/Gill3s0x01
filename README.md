@@ -66,9 +66,10 @@ Would you like to meet me?📫
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilles30&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact&langs_count=7&theme=omni"/> -->
 </div>
-
-
+<div>
  ![Snake animation](https://github.com/Gilles30/Gilles30/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
  
             
  

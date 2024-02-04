@@ -1,4 +1,4 @@
-<img align='right' src = "https://komarev.com/ghpvc/?username=Gilles30" alt = "Gilles30" />
+<img align='right' src = "https://komarev.com/ghpvc/?username=Gill3s0x01" alt = "Gill3s0x01" />
 
 ### Hello Dev! 😁🖖🏻👽
 
@@ -7,7 +7,7 @@
  <img align='left' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'> 
 </p>
 <p>
-My name is Lorison Gilles🚀, from Brazil (🇧🇷). I've been working with front-end/full-stack development since 2019 working with frela and personal projects, currently I'm a Developer and student in the cybersecurity area, working with systems development and technology implementation at Coffee Beam 💻🖥🖱 💡, and practicing ethical hacking in the free time. I always seek to develop and learn, making the most of the knowledge of my mentors 🏪🏬. Today I am looking for an opportunity to migrate to the cyber security area. I'm passionate about development, the best web 🖥️💻 and mobile 📱 technologies, cyber security techniques and a good coffee☕, so I created some projects as front-end [repositories] (https://github.com/Gilles30?tab=repositories ), learning to produce content to help other developers💬
+My name is Lorison Gilles🚀, from Brazil (🇧🇷). I've been working with front-end/full-stack development since 2019 working with frela and personal projects, currently I'm a Developer and student in the cybersecurity area, working with systems development and technology implementation at Coffee Beam 💻🖥🖱 💡, and practicing ethical hacking in the free time. I always seek to develop and learn, making the most of the knowledge of my mentors 🏪🏬. Today I am looking for an opportunity to migrate to the cyber security area. I'm passionate about development, the best web 🖥️💻 and mobile 📱 technologies, cyber security techniques and a good coffee☕, so I created some projects as front-end [repositories] (https://github.com/Gill3s0x01?tab=repositories ), learning to produce content to help other developers💬
 
 In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️), practice jiu-jitsu (👻), watch movies (🎞️) and series (📺), touch the suspension and the powerful engine ( 🚗 💨 🚓), listening to music (🎵 🎻 🎧) enjoying with my family (👨‍👩‍👦), going to church (⛪), eating pizza (🍕) and eventually philosophizing with my wife about life 🏡 with a good wine (🍷).
 
@@ -61,30 +61,30 @@ Would you like to meet me?📫
 <br>
 <br>
 
-![Snake animation](https://github.com/Gilles30/Gilles30/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Gill3s0x01/Gill3s0x01/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
 <div align="center">
-  <a href="https://github.com/Gilles30">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilles30&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilles30&layout=compact&langs_count=7&theme=omni"/> -->
+  <a href="https://github.com/Gill3s0x01">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gill3s0x01&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill3s0x01&layout=compact&langs_count=7&theme=omni"/> -->
 </div>
 
  
  
             
  
- <!-- [GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gilles30&color=fc77c4&line=6594c1&point=e6dd7e&bg_color=191622&area=true&hide_border=false) -->
+ <!-- [GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Gill3s0x01&color=fc77c4&line=6594c1&point=e6dd7e&bg_color=191622&area=true&hide_border=false) -->
 
-<!-- <div id="Gilles30">
+<!-- <div id="Gill3s0x01">
 
   <a>
-    <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=Gilles30&theme=omni&show_icons=true&include_all_commits=true&count_private=issues" />
+    <img width = "450px" align = "left" src = "https://github-readme-stats.vercel.app/api/?username=Gill3s0x01&theme=omni&show_icons=true&include_all_commits=true&count_private=issues" />
   </a>
 
   <a>
-     <img width = "250px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilles30&theme=omni&layout=compact)](https://github.com/Gilles30/github-readme-stats"/>
+     <img width = "250px" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gilleGill3s0x01s30&theme=omni&layout=compact)](https://github.com/Gill3s0x01/github-readme-stats"/>
   </a>
 
 </div>  -->

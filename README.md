@@ -7,9 +7,8 @@
  <img align='left' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'> 
 </p>
 <p>
-My name is Lorison Gilles🚀, from Brazil (🇧🇷). I've been working with front-end/full-stack development since 2019 working with frela and personal projects, currently I'm a Developer and student in the cybersecurity area, working with systems development and technology implementation at Coffee Beam 💻🖥🖱 💡, and practicing ethical hacking in the free time. I always seek to develop and learn, making the most of the knowledge of my mentors 🏪🏬. Today I am looking for an opportunity to migrate to the cyber security area. I'm passionate about development, the best web 🖥️💻 and mobile 📱 technologies, cyber security techniques and a good coffee☕, so I created some projects as front-end [repositories] (https://github.com/Gill3s0x01?tab=repositories ), learning to produce content to help other developers💬
-
-In my free time, I like to play (👾) (🎮), practice shotokan karate (☠️), practice jiu-jitsu (👻), watch movies (🎞️) and series (📺), touch the suspension and the powerful engine ( 🚗 💨 🚓), listening to music (🎵 🎻 🎧) enjoying with my family (👨‍👩‍👦), going to church (⛪), eating pizza (🍕) and eventually philosophizing with my wife about life 🏡 with a good wine (🍷).
+My name is Gill3s0x01🚀, from Brazil (🇧🇷). I've been working with  development since 2019, working with systems development, technology implementation, intelligence and security, and practicing ethical hacking in my spare time. I always seek to develop and learn, making the most of the knowledge of my mentors 🏪🏬. I'm passionate about web 🖥️💻 and mobile 📱 technologies, cybersecurity techniques and a good coffee☕, so I created some projects, learning how to produce content to help other developers💬
+In my free time I like to enjoy life.
 
 </p>
  

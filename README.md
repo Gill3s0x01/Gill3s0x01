@@ -2,6 +2,11 @@
 
 ### Hello Dev! 😁🖖🏻👽
 
+<div>
+ <img height=180 width=420 src="https://github-readme-stats.vercel.app/api?username=Gill3s0x01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill3s0x01&layout=compact&langs_count=16&theme=dark"/> 
+</div>
+
 <p>
  <img align='right' src="https://raw.githubusercontent.com/Elyabe/elyabe/master/images/portal-3.gif" width='200'>
  <img align='left' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'> 
@@ -25,5 +30,6 @@ Would you like to meet me?📫
 
 <div align="center">
   <a href="https://github.com/Gill3s0x01">
+  
 
 </div>

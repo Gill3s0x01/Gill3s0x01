@@ -1,6 +1,5 @@
 <img align='right' src = "https://komarev.com/ghpvc/?username=Gill3s0x01" alt = "Gill3s0x01" />
 
-<img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill3s0x01&layout=compact&langs_count=16&theme=dark"/> 
 ### Hello Dev! 😁🖖🏻👽
 
 <div>
@@ -13,6 +12,7 @@
 </p>
 <p>
 My name is Gill3s0x01🚀, from Brazil (🇧🇷). I've been working with  development since 2019, working with systems development, technology implementation, intelligence and security, and practicing ethical hacking in my spare time. I always seek to develop and learn, making the most of the knowledge of my mentors 🏪🏬. I'm passionate about web 🖥️💻 and mobile 📱 technologies, cybersecurity techniques and a good coffee☕, so I created some projects, learning how to produce content to help other developers💬
+<img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill3s0x01&layout=compact&langs_count=16&theme=dark"/> 
 In my free time I like to enjoy life.
 </p>
  

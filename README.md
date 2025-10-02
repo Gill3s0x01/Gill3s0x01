@@ -25,8 +25,11 @@ In my free time I like to enjoy life.
 Would you like to meet me?📫
 <br>
 <br>
-
-![Snake animation](https://github.com/Gill3s0x01/Gill3s0x01/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatyBernini/NatyBernini/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NatyBernini/NatyBernini/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NatyBernini/NatyBernini/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <a href="https://github.com/Gill3s0x01">

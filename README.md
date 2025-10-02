@@ -26,9 +26,9 @@ Would you like to meet me?📫
 <br>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatyBernini/NatyBernini/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatyBernini/NatyBernini/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NatyBernini/NatyBernini/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gill3s0x01/Gill3s0x01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gill3s0x01/Gill3s0x01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gill3s0x01/Gill3s0x01/output/pacman-contribution-graph.svg">
 </picture>
 
 <div align="center">

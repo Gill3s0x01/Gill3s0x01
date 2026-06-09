@@ -17,7 +17,7 @@ In my free time I like to enjoy life.
  
 <p>
   <row>
-    <img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill3s0x01&layout=compact&langs_count=16&theme=dark"/> 
+    <!-- <img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gill3s0x01&layout=compact&langs_count=16&theme=dark"/>  -->
 
   </row>
 </p>
